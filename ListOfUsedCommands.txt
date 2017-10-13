@@ -1,2 +1,4 @@
-npm init
-npm install react react-dom
+sudo npm install -g create-react-app
+create-react-app hello_agh
+cd hello_agh
+npm run
