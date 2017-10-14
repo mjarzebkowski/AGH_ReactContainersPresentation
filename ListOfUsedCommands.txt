@@ -2,3 +2,10 @@ sudo npm install -g create-react-app
 create-react-app hello_agh
 cd hello_agh
 npm run
+
+npm install 
+npm install 
+npm install 
+npm install 
+npm install 
+npm install 
